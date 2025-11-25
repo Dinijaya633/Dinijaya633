@@ -38,21 +38,5 @@
   <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinijaya633&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinijaya633&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinijaya633&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🚀 Thank you for visiting my profile!
