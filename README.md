@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 About Me  
-- 🔭 I’m currently learning **Java, Web Development, SQL & JS**  
+- 🔭 I’m currently learning **Java, SQL & JS**  
 - 📫 Reach me at **dinijayapeiris@gmail.com**  
 - 🚀 I love building simple and clean web applications  
 
